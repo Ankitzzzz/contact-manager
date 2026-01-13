@@ -43,6 +43,31 @@ This project is built as a full-stack application with **frontend** and **backen
 - JavaScript
 
 ---
+## Evaluation Rubric (100 Points)
+
+| Criteria | Points |
+|--------|--------|
+| Code Quality | 25 |
+| API / Backend Design | 25 |
+| Frontend UX | 20 |
+| Testing | 10 |
+| Documentation | 10 |
+| Performance & Edge Cases | 10 |
+
+## Sample API Design (REST)
+**Base URL:** `/api/contacts`
+
+| Method | Endpoint | Description |
+|------|----------|-------------|
+| POST | `/api/contacts` | Create a new contact |
+| GET | `/api/contacts` | Read all contacts |
+| GET | `/api/contacts/:id` | Read single contact |
+| PUT | `/api/contacts/:id` | Update contact |
+| PATCH | `/api/contacts/:id` | Partial update (optional) |
+| DELETE | `/api/contacts/:id` | Delete contact |
+
+
+---
 
 ## Suggested Database Schema (SQL Example)
 ```sql
