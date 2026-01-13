@@ -1,0 +1,4 @@
+body { font-family: Arial; margin: 40px; }
+form input { margin: 5px; padding: 6px; }
+table { margin-top: 20px; width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ddd; padding: 8px; }
