@@ -1,7 +1,10 @@
-#Student CRUD Web Application
+# Student CRUD Web Application
 
-#Description
+
+
+## Description
 This is a simple CRUD (Create, Read, Update, Delete) web application built using HTML, CSS, and JavaScript. It allows users to manage student records.
+
 #Features
 Add new student
 View student list
