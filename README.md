@@ -45,7 +45,7 @@ This project is built as a full-stack application with **frontend** and **backen
 ---
 ## Evaluation Rubric (100 Points)
 
-| Criteria | Points |
+|Criteria | Points |
 |--------|--------|
 | Code Quality | 25 |
 | API / Backend Design | 25 |
